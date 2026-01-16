@@ -1,4 +1,4 @@
-<h2 align="center">hey, i'm Maheer 🙋‍♂️</h2>
+<h1 align="center">hi, i'm Maheer!</h1>
 
 <p align="center">
   cs honors @ asu 🔱 | building <strong>turFinder</strong> 🥅🚀<br/>
