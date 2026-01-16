@@ -4,7 +4,7 @@
   cs honors @ asu 🔱 | building <strong>turFinder</strong> 🥅🚀<br/>
 </p>
 <p align="center">
-  code • photos • soccer • fifa
+  code • photography • soccer • fifa
 </p>
 
 <br/>
