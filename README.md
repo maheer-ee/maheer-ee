@@ -1,7 +1,9 @@
-# hey, i'm Maheer!
+<h1 align="center">hey, i'm Maheer!</h1>
 
-cs honors @ asu | building **turFinder** 🥅🚀
-code • photography • soccer • fifa
+<p align="center">
+  cs honors @ asu | building <strong>turFinder</strong><br/>🥅🚀
+  code • photos • soccer • fifa
+</p>
 
 <br/>
 
